@@ -1,0 +1,21 @@
+{
+  "name": "th-plumbing-heating",
+  "version": "1.0.0",
+  "description": "TH Plumbing & Heating - Exceptional service from a family run business in Newtownabbey. Boilers, Oil to Gas conversions, Radiator fitting, and 24/7 Emergency Callouts.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "th-plumbing-heating",
+    "plumber-newtownabbey",
+    "plumber-belfast",
+    "gas-boiler-installation",
+    "oil-to-gas-conversion",
+    "radiator-replacement",
+    "emergency-plumber-belfast"
+  ],
+  "author": "TH Plumbing & Heating - Timothy Houston",
+  "license": "ISC"
+}

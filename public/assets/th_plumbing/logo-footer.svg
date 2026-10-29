@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 90" width="420" height="90">
+  <!-- Teardrop Icon -->
+  <g transform="translate(10, 5)">
+    <!-- Droplet Body -->
+    <path d="M40 0 C40 0 78 48 78 68 C78 90 61 95 40 95 C19 95 2 90 2 68 C2 48 40 0 40 0 Z" fill="#2563EB" />
+    <!-- Droplet Top Aperture/Hole -->
+    <circle cx="40" cy="18" r="4.5" fill="#FFFFFF" />
+    <!-- Text TH inside drop -->
+    <text x="40" y="70" font-family="'Plus Jakarta Sans', Arial, sans-serif" font-weight="900" font-size="36" fill="#FFFFFF" text-anchor="middle" letter-spacing="-1">TH</text>
+  </g>
+  <!-- Text: PLUMBING & HEATING -->
+  <g transform="translate(100, 10)">
+    <text x="0" y="36" font-family="'Plus Jakarta Sans', Impact, Arial Black, sans-serif" font-weight="900" font-size="38" fill="#FBBF24" letter-spacing="0.5">PLUMBING</text>
+    <text x="0" y="72" font-family="'Plus Jakarta Sans', Impact, Arial Black, sans-serif" font-weight="900" font-size="38" fill="#FFFFFF" letter-spacing="0.5">&amp; <tspan fill="#FBBF24">HEATING</tspan></text>
+  </g>
+</svg>
